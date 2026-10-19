@@ -1,0 +1,12 @@
+[submodule "dreams-project-monolith"]
+	path = dreams-project-monolith
+	url = git@github.com:christiancesar/dreams-project-monolith.git
+[submodule "dreams-project-microservices"]
+	path = dreams-project-microservices
+	url = git@github.com:christiancesar/dreams-project-microservices.git
+[submodule "dreams-proto-sharing"]
+	path = dreams-proto-sharing
+	url = git@github.com:christiancesar/dreams-proto-sharing.git
+[submodule "grpc-with-typescript"]
+	path = grpc-with-typescript
+	url = git@github.com:christiancesar/grpc-with-typescript.git
