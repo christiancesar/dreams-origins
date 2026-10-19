@@ -1,0 +1,8 @@
+# Segredos e variáveis locais
+.env
+.env.*
+!.env.example
+
+# Sistema
+.DS_Store
+Thumbs.db
