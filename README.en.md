@@ -17,14 +17,12 @@ This is a central repository that points, through `git submodule`, to the indepe
 | [dreams-project-monolith](dreams-project-monolith) | Monolithic implementation of the application, with hexagonal architecture | Monolith (REST API) |
 | [dreams-project-microservices](dreams-project-microservices) | Same application split into microservices with an API Gateway and gRPC | Microservices |
 | [dreams-proto-sharing](dreams-proto-sharing) | Shared `.proto` contracts used by the microservices, published to npm | Contract library |
-| [grpc-with-typescript](grpc-with-typescript) | Initial gRPC study with TypeScript (client and server) | Reference example |
 
 ## Suggested reading order
 
 1. Read the thesis PDF, especially sections 2 (literature review) and 3 (methodology and development).
 2. Look at the monolith in `dreams-project-monolith` to see the domain and the module layout.
 3. Look at the microservices in `dreams-project-microservices`, together with the contracts in `dreams-proto-sharing`.
-4. Use `grpc-with-typescript` if you want to understand gRPC communication on its own.
 
 ## How to clone
 

@@ -7,6 +7,3 @@
 [submodule "dreams-proto-sharing"]
 	path = dreams-proto-sharing
 	url = git@github.com:christiancesar/dreams-proto-sharing.git
-[submodule "grpc-with-typescript"]
-	path = grpc-with-typescript
-	url = git@github.com:christiancesar/grpc-with-typescript.git
