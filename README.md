@@ -17,14 +17,12 @@ Este é um repositório central que aponta, via `git submodule`, para os reposit
 | [dreams-project-monolith](dreams-project-monolith) | Implementação monolítica da aplicação, com arquitetura hexagonal | Monólito (API REST) |
 | [dreams-project-microservices](dreams-project-microservices) | Mesma aplicação dividida em microsserviços com API Gateway e gRPC | Microsserviços |
 | [dreams-proto-sharing](dreams-proto-sharing) | Contratos `.proto` compartilhados entre os microsserviços, publicados no npm | Biblioteca de contratos |
-| [grpc-with-typescript](grpc-with-typescript) | Estudo inicial de gRPC com TypeScript (cliente e servidor) | Exemplo de referência |
 
 ## Ordem sugerida de leitura
 
 1. Leia o PDF do TCC, principalmente as seções 2 (revisão de literatura) e 3 (metodologia e desenvolvimento).
 2. Veja o monólito em `dreams-project-monolith` para entender o domínio e a organização por módulos.
 3. Veja os microsserviços em `dreams-project-microservices`, junto com o contrato em `dreams-proto-sharing`.
-4. Use `grpc-with-typescript` se quiser entender a comunicação gRPC isoladamente.
 
 ## Como clonar
 
